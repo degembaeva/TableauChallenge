@@ -5,4 +5,5 @@
 ### 02.Linechart - линейный график
 ### 03.Big Number 
 ### 04. Tables
+### 05. Pie, Donut, Sunburst - круг, кольцо, солнечные лучи
 
