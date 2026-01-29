@@ -32,5 +32,6 @@
 - Timeline (временной график / линия времени) — для анализа динамики, трендов и сезонности во времени.
 - Dumbbell (гантельная диаграмма) — для наглядного сравнения двух состояний (до/после, план/факт).
 - Bubble (пузырьковая диаграмма)— для одновременного анализа трёх показателей и выявления лидеров и проблемных зон.
-- [просмотр](08.%20Circles%20-scatter%2C%20boxplot%2C%20timeline%2C%20dumbbell%2C%20bubble/screenshots_Circles.pdf)
+- [просмотр](08._Circles _scatter_boxplot_timeline_dumbbell_bubble/screenshots_circles.pdf)
+
 
