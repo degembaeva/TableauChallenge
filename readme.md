@@ -54,9 +54,9 @@
 
 ##### 13. Tooltip
 - Tooltips — всплывающие подсказки в Tableau, которые при наведении показывают дополнительную информацию и детали, не перегружая визуализацию.
-- [просмотр](13._Tooltip/screenshots_tooltip.pdf)
+- [просмотр](13.%20Tooltip/screenshots_tooltip.pdf)
 
 ##### 14. Measures and dimensions
 - Measures — числовые показатели, которые агрегируются и используются для расчётов и построения визуализаций.
 - Dimensions — поля, описывающие данные и формирующие категории и разрезы анализа.
-- [просмотр](14._Meausures_dimensions/screenshots_meausures_dimensions.pdf)
+- [просмотр](14_Meausures_dimensions/screenshots_meausures_dimensions.pdf)
