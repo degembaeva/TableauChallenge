@@ -76,3 +76,5 @@
 
 ##### 17. Filters
 - [просмотр](17_Filter/screenshots_filters.pdf)
+
+- #18
